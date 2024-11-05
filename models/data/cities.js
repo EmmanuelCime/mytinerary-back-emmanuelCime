@@ -1,6 +1,6 @@
 import "dotenv/config.js"
 import "../../config/database.js"
-import City from "../city.js"
+import City from "../City.js"
 
 let cities = [
     {
